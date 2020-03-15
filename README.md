@@ -1,4 +1,4 @@
-Fight the Virus COVID-19
+Fight COVID-19 Brochure
 ==============
 
 This website is created to help translate the brochure of China CDC at:
