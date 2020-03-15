@@ -9,7 +9,7 @@ The brochure is currently at 7th version,  which has a lot of value guides and t
 
 It is HIGHLY recommended that you could join in to translate this into different languages to help it reach out to as many as people in this planet to Fight the virus.
 
-Any requirement and suggestions are appreciated in any forms. And you are highly welcome to join in this project as group member!
+Any requirement and suggestions are appreciated in any form. And you are highly welcome to join in this project as group member!
 
 Contacts:
 email: tian.dan@icloud.com
