@@ -9,7 +9,7 @@ The brochure is currently at 7th version,  which has a lot of value guides and t
 
 * [中文版](./i18n/zh)
 * [english](./i18n/en)
-* [हिन्दी](./i18n/hin)
+* हिन्दी(./i18n/hin)
 * [Español](./i18n/es)
 * [Русский](./i18n/ru)
 * [Português](./i18n/pt)
