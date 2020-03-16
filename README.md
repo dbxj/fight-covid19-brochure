@@ -38,6 +38,13 @@ The brochure is currently at 7th version,  which has a lot of value guides and t
 Visit from webbrowser or phone: 
 [https://dbxj.github.io/fight-covid19-brochure](https://dbxj.github.io/fight-covid19-brochure)
 
+Useful Resource List (Keep update)
+- [https://github.com/thu-west/Covid19Kg](https://github.com/thu-west/Covid19Kg)
+
+
+
+
+
 It is HIGHLY recommended that you could join in to translate this into different languages to help it reach out to as many as people in this planet to Fight the virus.
 
 Any requirement and suggestions are appreciated in any form. And you are highly welcome to join in this project as group member!
