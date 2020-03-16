@@ -33,7 +33,8 @@ The brochure is currently at 7th version,  which has a lot of value guides and t
 * Catalan(./i18n/ca)
 * Dutch(./i18n/nl)
 
-
+Visit from webbrowser or phone: 
+https://dbxj.github.io/fight-covid19-brochure
 
 It is HIGHLY recommended that you could join in to translate this into different languages to help it reach out to as many as people in this planet to Fight the virus.
 
