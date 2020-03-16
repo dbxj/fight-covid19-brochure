@@ -38,6 +38,7 @@ The brochure is currently at 7th version,  which has a lot of value guides and t
 Visit from webbrowser or phone: 
 [https://dbxj.github.io/fight-covid19-brochure](https://dbxj.github.io/fight-covid19-brochure)
 
+==============
 Useful Resource List (Keep update)
 - [https://github.com/thu-west/Covid19Kg](https://github.com/thu-west/Covid19Kg)
 
