@@ -5,7 +5,7 @@ This website is created to help translate the brochure of China CDC at:
 
 - Link: [New coronavirus pneumonia diagnosis and treatment plan](http://www.nhc.gov.cn/yzygj/s7653p/202003/46c9294a7dfe4cef80dc7f5912eb1989.shtml)
 - original pdf:[新型冠状病毒肺炎诊疗方案-7th.pdf](./original/新型冠状病毒肺炎诊疗方案-7th.pdf) 
-- docx via OCR:[新型冠状病毒肺炎诊疗方案-7th.docx](./original/新型冠状病毒肺炎诊疗方案-7th.docx) (Draft, need verify)
+- docx via OCR:[新型冠状病毒肺炎诊疗方案-7th.docx](./original/新型冠状病毒肺炎诊疗方案-7th.docx) (Obslete, please refer [this](./i18n/zh))
 
 The brochure is currently at 7th version,  which has a lot of value guides and treatment suggestions based on nearly 80k treatment cases all happened there in China. The brochure accumulated most of the treasure data, knowledge and experience if not all, from the firing line doctors all in there in China especially Wuhan and Hubei Province.
 
